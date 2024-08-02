@@ -1,4 +1,4 @@
-Instructions for integrating fullres with your Substack publication:
+Please read through these [instructions for integrating fullres with your Substack publication](https://substack.fullres-demos.com/p/how-to-log-custom-metadata-for-post)
 
 1. Setup custom domain on Substack. You will need to be using a custom domain for your Substack publication (e.g. my-special-site.com). You can do this within Substack by going to Settings > Domain.
 
